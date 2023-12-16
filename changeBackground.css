@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30vh;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+div {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+button {
+    font-weight: 800;
+    width: 100px;
+    height: 70px;
+    margin: 50px;
+    border-radius: 15px;
+}
